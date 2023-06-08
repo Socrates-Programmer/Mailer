@@ -1,0 +1,7 @@
+FLASK_DATABASE_USER=root (i use the User root but can use whatever user if this user has the necessary permissions )
+FLASK_DATABASE=prueba
+FLASK_DATABASE_PASSWORD=the password of your localhost
+FLASK_DATABASE_HOST=localhost
+SECRET_KEY=(Put your secret key here)
+SEND_API_KEY=(you must go to SENDGRID and create your APIKEY, please searth videos)
+FROM_EMAIL=(put here your email)

@@ -1,0 +1,1 @@
+if want to use this aplication, you need to create a database, and before to run this app you must write in your terminal "flask init-db", because this command going to run in your data base the archive .Schema this have the tables that you need, thanks.
